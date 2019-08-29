@@ -1,0 +1,6 @@
+{
+	"Correo":"johnsvill86@gmail.com",
+	"CorreoDestino":"johnsvill@hotmail.com",
+	"Asunto":"Reporte transacciones ACME System",
+	"Cuerpo":"Se adjunta archivo generado por el robot."
+}
