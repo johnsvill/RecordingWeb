@@ -1071,15 +1071,15 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\BDGSA\\.nuget\\packages\\": {}
+    "C:\\Users\\Jonathan Villeda\\.nuget\\packages\\": {}
   },
   "project": {
     "restore": {
       "projectUniqueName": "RecordingWeb",
       "projectName": "RecordingWeb",
-      "projectPath": "C:\\Users\\BDGSA\\Documents\\UiPath\\RecordingWeb\\.local",
-      "packagesPath": "C:\\Users\\BDGSA\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\BDGSA\\Documents\\UiPath\\RecordingWeb\\.local"
+      "projectPath": "C:\\Users\\Jonathan Villeda\\Documents\\UiPath\\RecordingWeb\\.local",
+      "packagesPath": "C:\\Users\\Jonathan Villeda\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Jonathan Villeda\\Documents\\UiPath\\RecordingWeb\\.local"
     },
     "frameworks": {
       "net461": {
